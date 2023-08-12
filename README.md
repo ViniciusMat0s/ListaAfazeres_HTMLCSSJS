@@ -4,9 +4,9 @@
 
 ### O que usei?
 
-##### · HTML;
-##### · Bootstrap;
+##### · HTML
 ##### · CSS
+##### · Boostrap
 ##### · JavaScript
 
 ![Screenshot_1](https://github.com/ViniciusMat0s/ProjetoSite_HTMLCSSJS/assets/128171517/03c443d8-d8b5-4aa5-8b61-6415953ead34)
