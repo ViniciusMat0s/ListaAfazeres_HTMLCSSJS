@@ -1,5 +1,5 @@
 # Lista de Afazeres
-### Projeto desenvolvido na introdução ao JavaScript.
+### Primeiro projeto com JavaScript, desenvolvido na introdução ao JavaScript.
 #### Curso/Cadeira: Introdução ao Desenvolvimento Web, Ulbra Torres 2023/01.
 
 ### O que usei?
