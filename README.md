@@ -7,5 +7,7 @@
 
 Projeto semestral de To-do List, primeira vez utilizando JavaScript, desenvolvido utilizando conhecimentos básicos de HTML, CSS, Bootstrap e Javascript.
 
-![Screenshot_1](https://github.com/ViniciusMat0s/Curriculum_HTMLCSS/assets/128171517/3b518003-c855-4202-bea0-a1b66306cb7e)
-![Screenshot_2](https://github.com/ViniciusMat0s/Curriculum_HTMLCSS/assets/128171517/6d5bca40-09ad-4a39-83b0-d391e29940e3)
+![vaziopc](https://github.com/ViniciusMat0s/ListaAfazeres_HTMLCSSJS/assets/128171517/5d5b88a6-9048-45a2-a5ab-e27009ab9b80)
+![cheiopc](https://github.com/ViniciusMat0s/ListaAfazeres_HTMLCSSJS/assets/128171517/b7ff8db3-b8bc-404f-b164-b8f47c735539)
+![aapc](https://github.com/ViniciusMat0s/ListaAfazeres_HTMLCSSJS/assets/128171517/12ebe35e-329c-4d9c-a4fe-1c535cb50930)
+![aaaaapc](https://github.com/ViniciusMat0s/ListaAfazeres_HTMLCSSJS/assets/128171517/aa9135d3-a9b3-4586-a801-0c2a5a01cbf5)
